@@ -4,6 +4,8 @@
 *.pyc
 __pycache__
 venv
+.gitignore
+db.sqlite3
 
 # Backup files # 
 *.bak 
